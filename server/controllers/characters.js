@@ -20,4 +20,4 @@ const getCharactersFromApi = async () => {
   }
 };
 
-module.exports = getCharactersFromApi;
+module.exports = { getCharactersFromApi };
